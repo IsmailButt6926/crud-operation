@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "name": "Noman",
+      "email": "kevin@recruitnow.nl",
+      "id": 1
+    },
+    {
+      "name": "Ahad",
+      "email": "test@123.com",
+      "id": 2
+    },
+    {
+      "name": "mussa",
+      "email": "kevin@recruitnow.nl",
+      "id": 3
+    },
+    {
+      "name": "ali",
+      "email": "kevin@recruitnow.nl",
+      "id": 6
+    }
+  ]
+}
